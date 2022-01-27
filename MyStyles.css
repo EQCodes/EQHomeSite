@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+    line-height: 1.8;
+    color:rgb(26, 25, 25);
+}
+p{font-size: 24px;}
+
+img{
+    display: block;
+    margin: auto;
+    width: 20%;
+}
+.margin {margin-bottom: 45px;}
+
+  .bg-1 { 
+      background-color: #AD3618;
+      color: #ffffff;
+      padding-top: 30px;
+      padding-bottom: 30px;
+  }
+  .bg-2 { 
+      background-color: #034F36; 
+      color: #ffffff;
+  }
+  .bg-3 { 
+      background-color: #FF7457; 
+      color: #4d4949;
+  }
+  .bg-4 { 
+      background-color: #122932; 
+      color: #fff;
+  }
+  .container-fluid {
+      padding-top: 10px;
+      padding-bottom: 10px;
+  }
+
+
+  .navbar-brand {
+      font-size: 25px;
+      color: #ffffff;
+  }
+  .navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 25px;
+      letter-spacing: 5px;
+      background-color: #122932; /* Dark Gunmetal */  
+}
+
+.navbar li a {
+    color: #ffffff;
+}
+
+
+  ul{
+      display: inline-block;
+      text-align: left;
+      font-size: 24px;
+  }
+
+  nav{
+      text-align: left;
+  }
+
+  .card-title{
+    color: #4d4949;
+    font-size: 30px;
+  }
+
+  .card-text{
+    color: #4d4949;
+    font-size: 24px;
+  }
+
+  .card{
+    background-color: #FF7457;
+    margin: 0 auto;
+  }
+
+  table{
+      font-size: 26px;
+      color: #ffffff;
+  }
